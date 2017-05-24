@@ -14,7 +14,7 @@ sudo apt-get install curl
 ./download_data.sh
 ```
 
-## Build Environment
+## Build Python2 Environment
 ```
 pip install -r requirements.txt
 ・numpy>=1.12.1  
