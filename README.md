@@ -2,12 +2,15 @@
 Coding Task about deep learning for screening internship.
 
 ## Environment
-OS : Mac  
+OS : Mac or Ubuntu  
 Python2.7  
 
 ## Datasets  
 MNIST Datasets（http://yann.lecun.com/exdb/mnist/）
 ```
+# if Ubuntu  
+sudo apt-get install curl
+
 ./download_data.sh
 ```
 
